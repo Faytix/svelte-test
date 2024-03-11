@@ -1,5 +1,5 @@
 <svelte:head>
-<title> Портфолио</title>
+<title>Портфолио</title>
 </svelte:head>
 <div class='container'>
 <h1>Мои проекты </h1>
@@ -18,9 +18,8 @@
 </div>
 </div>
 <script>
-    import { routes } from './routes.js';
-    
-    import Icon from '../../../../components/Icon.svelte';
+    import { routes } from './routes';
+    import { Icon } from '../../components/Icon.svelte';
 </script>
 <style>
 .container {
