@@ -1,5 +1,5 @@
 <div class="container">
-    <a href="/blog">Вернуться назад</a>
+    <a href="/about">Вернуться назад</a>
     <slot/>
 </div>
 
@@ -8,6 +8,5 @@
         margin: 50px auto;
         max-width: 800px;
         padding: 0 20px;
-        border: 2px solid black;
     }
 </style>

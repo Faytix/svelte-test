@@ -6,3 +6,8 @@
     <img src="https://yastatic.net/naydex/yandex-search/y8hYCH781/4eec8ajbyW/_zftdZ28RkNLpO85TLrkLvU-BWCEfRexqkjKOp2o4_MPlLepNSOFBZtd4zUpuywRGzg46XFtWO4NMAMKCpb3xehhrjne_l0eFuX4dwC97SrqdRgohDoL46Ff0T3E4b34Vp3lxwlUpXehI4ZOXZcECU1uarg9IhP5Z1k" alt="Image4">
     <img src="https://avatars.mds.yandex.net/i?id=82db885b910bc137b543a7f24fb6ff1b92aedda1-9181179-images-thumbs&n=13" alt="Image5">
 </div>
+<style>
+    .images{
+        border: 2px solid black;
+    }
+</style>

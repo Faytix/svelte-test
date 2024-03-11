@@ -6,3 +6,8 @@
     <img src="https://yastatic.net/naydex/yandex-search/y8hYCH729/4eec8ajbyW/_zftdZ28RkNLpO85TLrkLvU-BWCEfRexqkjKas2h4qFdzeOpNCKHVslYtT8ovXNETTY97XVvULoKMgZaCserwL9v-DnX9l4dFuTybUS54SzoY0ZxmCcT7LAKljHZquirWp-JxxdUpmqxPp1AU5AzEUJka6VrfhTTZw" alt="Image4">
     <img src="https://yastatic.net/naydex/yandex-search/y8hYCH781/4eec8ajbyW/_zftdZ28RkNLpO85TLrkLvU-BWCEfRexqkjKOczwtfAPzuKgNXDSAJgO4jYs7y4RGjY75Cc4B7QMPg4NXMfxz7hnoDne_V0fF-L3eQC97SrqdRgohDoL46Ff0T3E4b34Vp3lxwlUpXehI4ZOXZcECU1uarg9IhP5Z1k" alt="Image5">
 </div>
+<style>
+    .images{
+        border: 2px solid black;
+    }
+</style>
