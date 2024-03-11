@@ -8,7 +8,10 @@
 </div>
 <style>
     .images{
-        border: 2px solid black;
+        border: 1px solid #8b8787;
+        padding: 10px;
+        box-shadow: 0 0 10px #eee;
+        margin: 10px;
         text-align: center;
     }
 </style>
