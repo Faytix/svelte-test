@@ -9,5 +9,6 @@
 <style>
     .images{
         border: 2px solid black;
+        text-align: center;
     }
 </style>
