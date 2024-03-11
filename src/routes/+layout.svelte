@@ -18,7 +18,7 @@
 <script>
     const nav =[
         {
-            title:'Обо мне',
+            title:'Путешествия',
             href:'/about',
             isShow: true,
         },
@@ -28,7 +28,7 @@
             isShow: true,
         },
         {
-            title:'Контакты',
+            title:'Связь со мной',
             href:'/contact',
             isShow: true,
         },
