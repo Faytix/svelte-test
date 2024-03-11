@@ -72,7 +72,7 @@ Voluptas nulla,
     }
 
     .background-div {
-        background-color: #ecebe8;
+        background-color: #8d805b;
         width: 100%;
         height: 56vh;
         margin: -205px auto;

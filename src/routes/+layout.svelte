@@ -28,7 +28,7 @@
             isShow: true,
         },
         {
-            title:'Связь со мной',
+            title:'Мои любимые фильмы',
             href:'/contact',
             isShow: true,
         },
@@ -38,5 +38,11 @@
     .container {
         max-width: 1400px;
         margin: 50px auto;
+    }
+    nav{
+        background-color: #f3f1f1;
+        border: 1px solid black;
+        width: 100%;
+        margin: 0;
     }
 </style>
