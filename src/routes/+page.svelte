@@ -17,6 +17,7 @@
 Voluptas nulla, 
             asperiores ipsa tempore ipsam ad delectus, optio consectetur a suscipit eaque itaque.
                 </h2>
+                <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
                     <a href="/about">Click Here</a>
                     <div class="arrow">→</div>
